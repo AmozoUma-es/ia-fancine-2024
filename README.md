@@ -107,13 +107,9 @@ python mapa_profundidad.py large --use-gpu
 ---
 
 ## Notas importantes
-- El script de YOLO espera los archivos de pesos:
-  - `yolo11n-pose.pt` → Para detección de poses.
-  - `yolo11n-seg.pt` → Para segmentación.
+- El script de YOLO descarga automáticamente los modelos necesarios.
 
 - MiDaS descarga automáticamente los modelos necesarios.
-
-- Usa la tecla `q` para salir del modo de video.
 
 ---
 
