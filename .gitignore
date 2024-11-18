@@ -1,4 +1,5 @@
-*.pt # modelos de YOLO
+# modelos de YOLO descargados
+*.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
