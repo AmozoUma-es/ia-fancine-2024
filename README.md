@@ -25,6 +25,10 @@ Ejecuta el script especificando la tarea deseada:
 python yolo_detector.py <tarea> [opciones]
 ```
 
+![detectar](https://github.com/user-attachments/assets/2b8e7bcb-00f8-4d1e-b2d2-324398ea94b9)
+
+![poses](https://github.com/user-attachments/assets/95eedcfd-37eb-49b6-b2ac-56245c19c130)
+
 Parámetros principales:
 - `<tarea>`:
   - `clasificar` → Clasificación de objetos.
@@ -44,6 +48,8 @@ python yolo_detector.py pose
 
 ### 2. Mapa de Profundidad (`mapa_profundidad.py`)
 Utiliza MiDaS para generar mapas de profundidad en tiempo real desde la cámara.
+
+![mapa-profundidad](https://github.com/user-attachments/assets/2c3c81b2-a9c4-47cb-813d-46d5383a4861)
 
 #### Uso
 Ejecuta el script seleccionando el tamaño del modelo:
